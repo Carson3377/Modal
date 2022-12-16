@@ -1,7 +1,7 @@
 JavaScript Project --
 
 # Modal
-In this JavaScript project, we're going to create a modal window that is used to get users' attention and allow them to take note on something specific. --A good example of a modal window would be if a user made changes in a site without saving them and tried to go to another page. You can create a modal window that warns them to save their changes or else that information will be lost.-- 
+In this JavaScript project, we're going to create a modal window that is used to get users' attention and allow them to take note on something specific. --A good example of a modal window would be if a user made changes in a site without saving them and tried to go to another page. You can create a modal window that warns them to save their changes or else that information will be lost.-- [Modal](https://carson3377.github.io/Modal/modal.html)
  
 Credit: FreeCodeCamp.org
 
